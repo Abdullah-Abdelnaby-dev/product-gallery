@@ -5,6 +5,7 @@
 A responsive product gallery built with **React**, **TypeScript**, **Vite**, and **TailwindCSS**.  
 This project fetches products from [FakeStoreAPI](https://fakestoreapi.com/) and allows users to:
 
+- 🖼️ View and browse a list of products
 - 🔎 Filter products by name (case-insensitive)
 - ↕️ Sort products by price and name
 - 🌗 Toggle between Light and Dark modes
