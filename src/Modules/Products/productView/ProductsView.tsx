@@ -45,7 +45,7 @@ const sortedProducts = [...filterByName || []]?.sort((a, b) => {
              <select
   value={sortType}
   onChange={(e) => setSortType(e.target.value)}
-  className="p-2 rounded-lg border dark:bg-gray-800 dark:text-white"
+  className="p-2 rounded-lg border dark:bg-gray-800 dark:text-white mb-5"
 >
   <option value="default">Sort By</option>
   <option value="price-asc">Price: Low to High</option>
