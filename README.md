@@ -14,7 +14,7 @@ This project fetches products from [FakeStoreAPI](https://fakestoreapi.com/) and
 
 ## 🖼️ Demo 
 
-🔗 [Live Demo on Vercel](https://product-gallery-psi.vercel.app/)
+🔗 [Live Demo on Vercel](https://product-gallery-cztj.vercel.app/)
 
 ---
 
