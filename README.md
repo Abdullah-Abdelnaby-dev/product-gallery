@@ -12,13 +12,7 @@ This project fetches products from [FakeStoreAPI](https://fakestoreapi.com/) and
 
 ---
 
-## 🖼️ Demo / Screenshots
-
-> 📸 Add actual screenshots to the `assets/` folder and replace the links below:
-
-![Home Page](./assets/homepage.png)
-![Product Details](./assets/product-details.png)
-![Dark Mode](./assets/darkmode.png)
+## 🖼️ Demo 
 
 ---
 
